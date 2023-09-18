@@ -9,5 +9,7 @@ After the model is built, we'll use Flask to deploy the model by using JS and HT
 I've also uploaded the video of using the project live. Please refer the video through the following link url: https://www.youtube.com/watch?v=_xGxPV29PwU
 
 Technologies used:
+
 Model Building: Tensorflow, CNN, Data augmentation
+
 Backend Server : Flask, HTML, JS, CSS
